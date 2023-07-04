@@ -14,7 +14,6 @@ A search engine that allows users to search for questions based on their query. 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
